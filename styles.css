@@ -1,0 +1,16 @@
+main {
+  float: left;
+  display: block;
+  margin-left: 17%;
+  margin-right: 17%;
+  width: 66%;
+  clear: both;
+}
+
+header {
+  display: block;
+  margin-left: 17%;
+  margin-right: 17%;
+  width: 66%;
+  clear: both;
+}
