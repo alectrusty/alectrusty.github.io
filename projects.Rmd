@@ -2,16 +2,7 @@
 title: "Projects"
 ---
 
-Here are some examples of projects of mine!
-
 ## [Arctic Story Map](http://pdxedu.maps.arcgis.com/apps/Cascade/index.html?appid=eced9a85fa9d40ffa1a73c12f694c49c)
-
-- An RMarkdown presentation on the common mistakes made in visualization and how to fix them.
-- Includes a github repo for access to all the code.
-- Look at how high quality my work is, hire and or collaborate with me. 
 
 ## [WebScraped Data in a Web Map](http://www.alectrusty.com/pdx_openlate.html)
 
-- Web Scraping
-- Data Cleaning
-- Spatial Data Creation

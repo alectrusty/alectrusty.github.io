@@ -2,7 +2,7 @@
 #This helps avoid confusion if our working directory is 
 #not our site because of other projects we were 
 #working on at the time. 
-setwd("/home/atrusty/practice_site/")
+setwd("/home/atrusty/alectrusty.github.io/")
 
 #render your sweet site. 
 rmarkdown::render_site()
