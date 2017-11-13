@@ -1,0 +1,5 @@
+---
+  title: "About"
+---
+
+Hey! My name is Alec Trusty. I am an aspiring Environmental Data Scientist.  
