@@ -6,3 +6,4 @@ title: "Projects"
 
 ## [WebScraped Data in a Web Map](http://www.alectrusty.com/pdx_openlate.html)
 
+## [Working Spatial Regression](http://www.alectrusty.com/spreg3.html)
