@@ -18,3 +18,5 @@ title: "Projects"
 
 #### [Portland Energy Expenditure Research](http://www.alectrusty.com/projects/expr.html)
 
+#### [Landscape Influences on Water Quality (ESM 567)](http://www.alectrusty.com/projects/rda.html)
+
