@@ -2,7 +2,10 @@
 title: "Contact"
 ---
 
-Email I: atrusty@pdx.edu
-Email II: a.e.trusty@gmail.com
-[Linkedin](https://www.linkedin.com/in/alec-trusty-30220b109/)
-[Github](http://www.github.com/alectrusty)
+#### Email I: atrusty@pdx.edu
+
+#### Email II: a.e.trusty@gmail.com
+
+#### [Linkedin](https://www.linkedin.com/in/alec-trusty-30220b109/)
+
+##### [Github](http://www.github.com/alectrusty)

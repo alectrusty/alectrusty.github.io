@@ -1,11 +1,11 @@
 name: "alecs-website"
 output_dir: "."
 navbar:
-  title: "Alec Trusty, B.S."
+  title: "Alec Trusty"
   left:
   - text: "Home"
     href: index.html
-  - text: "EDS"
+  - text: "About"
     href: about.html
   - text: "Projects"
     href: projects.html

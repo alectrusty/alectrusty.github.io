@@ -1,5 +1,5 @@
 ---
-  title: "EDS"
+  title: "About"
 ---
 
 I work as a Data & Research Analyst out of Portland, Oregon, U.S. My specialty is in Geographic Information Science (GIS) and aspire to apply my analytical skills in finding solutions to social and ecological issues.

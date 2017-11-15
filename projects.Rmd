@@ -10,7 +10,7 @@ title: "Projects"
 
 ## Web Scraping
 
-#### [Spatializing Yelp Businesses](http://www.alectrusty.com/)
+#### [Spatializing Yelp Businesses](http://www.alectrusty.com/yelpscrape.html)
 
 ## Research
 
