@@ -2,6 +2,8 @@
 title: "Projects"
 ---
 
+This is essentially my file cabinet for documents that are most relevant to my profession. More to come soon...
+
 ## Web Mapping
 
 #### [Arctic Story Map](http://pdxedu.maps.arcgis.com/apps/Cascade/index.html?appid=eced9a85fa9d40ffa1a73c12f694c49c)
@@ -19,4 +21,8 @@ title: "Projects"
 #### [Portland Energy Expenditure Research](http://www.alectrusty.com/projects/expr)
 
 #### [Landscape Influences on Water Quality (ESM 567)](http://www.alectrusty.com/projects/rda)
+
+## Map Gallery
+
+Coming soon...
 
