@@ -9,10 +9,10 @@ navbar:
     href: about.html
   - text: "Projects"
     href: projects.html
-  - text: "CV"
-    href: cv.html
+  - text: "Contact"
+    href: contact.html
   
 output:
   html_document:
-    theme: cosmo
+    theme: sandstone
     css: style.css
