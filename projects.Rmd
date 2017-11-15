@@ -12,6 +12,8 @@ title: "Projects"
 
 #### [Spatializing Yelp Businesses](http://www.alectrusty.com/projects/yelpscrape.html)
 
+#### [Scraping Tables with Python](http://www.alectrusty.com/projects/scrape1.html)
+
 ## Research & Statistics
 
 #### [Portland Energy Expenditure Research](http://www.alectrusty.com/projects/expr.html)
