@@ -6,13 +6,13 @@ title: "Projects"
 
 #### [Arctic Story Map](http://pdxedu.maps.arcgis.com/apps/Cascade/index.html?appid=eced9a85fa9d40ffa1a73c12f694c49c)
 
-#### [Scraped Yelp Data: Webmap](http://www.alectrusty.com/nl.html)
+#### [Scraped Yelp Data: Webmap](http://www.alectrusty.com/projects/nl.html)
 
 ## Web Scraping
 
-#### [Spatializing Yelp Businesses](http://www.alectrusty.com/yelpscrape.html)
+#### [Spatializing Yelp Businesses](http://www.alectrusty.com/projects/yelpscrape.html)
 
 ## Research
 
-#### [Portland Energy Expenditure Research](http://www.alectrusty.com/expr.html)
+#### [Portland Energy Expenditure Research](http://www.alectrusty.com/projects/expr.html)
 
