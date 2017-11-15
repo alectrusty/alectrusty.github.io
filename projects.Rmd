@@ -6,17 +6,17 @@ title: "Projects"
 
 #### [Arctic Story Map](http://pdxedu.maps.arcgis.com/apps/Cascade/index.html?appid=eced9a85fa9d40ffa1a73c12f694c49c)
 
-#### [Scraped Yelp Data: Webmap](http://www.alectrusty.com/projects/nl.html)
+#### [Scraped Yelp Data: Webmap](http://www.alectrusty.com/projects/nl)
 
 ## Web Scraping
 
-#### [Spatializing Yelp Businesses](http://www.alectrusty.com/projects/yelpscrape.html)
+#### [Spatializing Yelp Businesses](http://www.alectrusty.com/projects/yelpscrape)
 
-#### [Scraping Tables with Python](http://www.alectrusty.com/projects/scrape1.html)
+#### [Scraping Tables with Python](http://www.alectrusty.com/projects/scrape1)
 
 ## Research & Statistics
 
-#### [Portland Energy Expenditure Research](http://www.alectrusty.com/projects/expr.html)
+#### [Portland Energy Expenditure Research](http://www.alectrusty.com/projects/expr)
 
-#### [Landscape Influences on Water Quality (ESM 567)](http://www.alectrusty.com/projects/rda.html)
+#### [Landscape Influences on Water Quality (ESM 567)](http://www.alectrusty.com/projects/rda)
 
