@@ -2,8 +2,17 @@
 title: "Projects"
 ---
 
-## [Arctic Story Map](http://pdxedu.maps.arcgis.com/apps/Cascade/index.html?appid=eced9a85fa9d40ffa1a73c12f694c49c)
+## Web Mapping
 
-## [WebScraped Data in a Web Map](http://www.alectrusty.com/pdx_openlate.html)
+#### [Arctic Story Map](http://pdxedu.maps.arcgis.com/apps/Cascade/index.html?appid=eced9a85fa9d40ffa1a73c12f694c49c)
 
-## [Working Spatial Regression](http://www.alectrusty.com/spreg3.html)
+#### [Scraped Yelp Data: Webmap](http://www.alectrusty.com/nl.html)
+
+## Web Scraping
+
+#### [Spatializing Yelp Businesses](http://www.alectrusty.com/)
+
+## Research
+
+#### [Portland Energy Expenditure Research](http://www.alectrusty.com/expr.html)
+

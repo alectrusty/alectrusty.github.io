@@ -1,10 +1,5 @@
 ---
-  title: "Alec Trusty, B.S."
+  title: "Alec Trusty"
 ---
 
-_Welcome._  
-I work as a Data & Research Analyst out of Portland, Oregon, U.S. I specialize in Geographic Information Science (GIS) and aspire to apply my analytical skills in finding solutions to social and ecological issues.
-
-When i'm not geeking out I like to write and perform music, dream about traveling with my partner, and get some quality time in with family and friends.
-
-This website is still under construction, but feel free to look around, you might be surprised by what you find!
+# GIS | SPATIAL ANALYTICS | RESEARCH
