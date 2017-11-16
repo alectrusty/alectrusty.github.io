@@ -12,3 +12,6 @@ I consider myself an Environmental Data Scientist in training, but I have over t
 This website is a work in progress and will have more content soon, but feel free to explore my [work](http://www.alectrusty.com/projects) and [contact](http://www.alectrusty.com/contact) me with any questions or inquries. I am currently available for GIS & data consulting services and would love to connect.
 
 -Alec
+
+![](img/pop.jpg)
+*Source: spatial.ly*
