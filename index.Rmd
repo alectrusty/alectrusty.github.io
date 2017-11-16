@@ -3,7 +3,7 @@
 ---
 
 
-# GIS | SPATIAL ANALYTICS | RESEARCH
+### GIS | SPATIAL ANALYTICS | RESEARCH
 
 Approaching big data solutions to social and environmental sustainability issues with cutting-edge [GIS](https://en.wikipedia.org/wiki/Geographic_information_system) and [data science](https://en.wikipedia.org/wiki/Data_science) techniques, with a focus on [open source](https://en.wikipedia.org/wiki/Open-source_software) software for ensuring reproducibility in my analytical methods.
 
