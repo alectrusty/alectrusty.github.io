@@ -52,9 +52,9 @@ weight = 7
   description = ""
   
 [[feature]]
-  icon = "linux"
+  icon = "terminal"
   icon_pack = "fas"
-  name = "Open Source"
+  name = "Computers, man."
   description = ""
 
 +++
