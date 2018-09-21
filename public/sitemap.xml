@@ -4,6 +4,22 @@
     
     <url>
     
+      <loc>/project/arctic-story-map/</loc>
+      <lastmod>2018-09-22T00:00:00-06:00</lastmod>
+    </url>
+    
+  
+    
+    <url>
+    
+      <loc>/post/test-post/</loc>
+      <lastmod>2018-09-21T00:00:00+00:00</lastmod>
+    </url>
+    
+  
+    
+    <url>
+    
       <loc>/tutorial/example/</loc>
       <lastmod>2018-09-09T00:00:00-06:00</lastmod>
     </url>
@@ -68,32 +84,8 @@
     
     <url>
     
-      <loc>/project/example-external-project/</loc>
-      <lastmod>2016-04-27T00:00:00-06:00</lastmod>
-    </url>
-    
-  
-    
-    <url>
-    
-      <loc>/post/getting-started/</loc>
-      <lastmod>2018-01-13T00:00:00-06:00</lastmod>
-    </url>
-    
-  
-    
-    <url>
-    
       <loc>/publication/person-re-identification/</loc>
       <lastmod>2015-09-01T00:00:00-06:00</lastmod>
-    </url>
-    
-  
-    
-    <url>
-    
-      <loc>/post/2015-07-23-r-rmarkdown/</loc>
-      <lastmod>2015-07-23T21:13:14-05:00</lastmod>
     </url>
     
   
@@ -126,8 +118,8 @@
     
     <url>
     
-      <loc>/tags/academic/</loc>
-      <lastmod>2018-01-13T00:00:00-06:00</lastmod>
+      <loc>/</loc>
+      <lastmod>2017-10-15T00:00:00-06:00</lastmod>
       <priority>0</priority>
     </url>
     
@@ -135,8 +127,8 @@
     
     <url>
     
-      <loc>/</loc>
-      <lastmod>2017-10-15T00:00:00-06:00</lastmod>
+      <loc>/tags/cartography/</loc>
+      <lastmod>2018-09-21T00:00:00+00:00</lastmod>
       <priority>0</priority>
     </url>
     
@@ -161,17 +153,8 @@
     
     <url>
     
-      <loc>/tags/demo/</loc>
-      <lastmod>2016-04-27T00:00:00-06:00</lastmod>
-      <priority>0</priority>
-    </url>
-    
-  
-    
-    <url>
-    
-      <loc>/tags/plot/</loc>
-      <lastmod>2015-07-23T21:13:14-05:00</lastmod>
+      <loc>/tags/esri-story-map/</loc>
+      <lastmod>2018-09-22T00:00:00-06:00</lastmod>
       <priority>0</priority>
     </url>
     
@@ -180,7 +163,7 @@
     <url>
     
       <loc>/project/</loc>
-      <lastmod>2016-04-27T00:00:00-06:00</lastmod>
+      <lastmod>2018-09-22T00:00:00-06:00</lastmod>
       <priority>0</priority>
     </url>
     
@@ -197,26 +180,17 @@
     
     <url>
     
+      <loc>/tags/r/</loc>
+      <lastmod>2018-09-21T00:00:00+00:00</lastmod>
+      <priority>0</priority>
+    </url>
+    
+  
+    
+    <url>
+    
       <loc>/categories/r/</loc>
-      <lastmod>2015-07-23T21:13:14-05:00</lastmod>
-      <priority>0</priority>
-    </url>
-    
-  
-    
-    <url>
-    
-      <loc>/tags/r-markdown/</loc>
-      <lastmod>2015-07-23T21:13:14-05:00</lastmod>
-      <priority>0</priority>
-    </url>
-    
-  
-    
-    <url>
-    
-      <loc>/tags/regression/</loc>
-      <lastmod>2015-07-23T21:13:14-05:00</lastmod>
+      <lastmod>2018-09-21T00:00:00+00:00</lastmod>
       <priority>0</priority>
     </url>
     
@@ -225,7 +199,16 @@
     <url>
     
       <loc>/tags/</loc>
-      <lastmod>2018-01-13T00:00:00-06:00</lastmod>
+      <lastmod>2018-09-21T00:00:00+00:00</lastmod>
+      <priority>0</priority>
+    </url>
+    
+  
+    
+    <url>
+    
+      <loc>/tags/web-mapping/</loc>
+      <lastmod>2018-09-22T00:00:00-06:00</lastmod>
       <priority>0</priority>
     </url>
     
