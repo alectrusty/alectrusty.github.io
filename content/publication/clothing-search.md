@@ -1,4 +1,4 @@
-+++
+ +++
 title = "Mobile visual clothing search"
 date = 2013-07-01T00:00:00
 draft = false
@@ -36,7 +36,7 @@ selected = true
 #   Simply enter your project's filename without extension.
 #   E.g. `projects = ["deep-learning"]` references `content/project/deep-learning.md`.
 #   Otherwise, set `projects = []`.
-projects = ["example-external-project"]
+projects = ["arctic-story-map"]
 
 # Tags (optional).
 #   Set `tags = []` for no tags, or use the form `tags = ["A Tag", "Another Tag"]` for one or more tags.
