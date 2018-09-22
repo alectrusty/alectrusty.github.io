@@ -28,9 +28,9 @@ weight = 5
 
 +++
 
-# Hi, I'm Alec.
+## Hi, I'm Alec.
 
-Approaching data solutions to social and environmental sustainability issues with cutting-edge [GIS](https://en.wikipedia.org/wiki/Geographic_information_system) and [data science](https://en.wikipedia.org/wiki/Data_science) techniques, with a focus on [open source](https://en.wikipedia.org/wiki/Open-source_software) software for ensuring reproducibility in my analytical methods.
+I'm interested in applications of spatial predictive analytics within the realms of natural resource management, carbon economics, and environmental sustainability. I have an educational background in Environmental Science, three years experience in applied GIS, and in more recent years developed a savviness in programmatic data analysis and an interest in the data science framework.
 
-I consider myself an Environmental Data Scientist in training, but I have over two years of project-based experience with the [Center for Spatial Analysis & Research](https://www.pdx.edu/geography/center-for-spatial-analysis-research-csar) and the [Sustaining Urban Places Research Lab](http://www.suprlab.org/).
+I consider myself an Environmental Data Scientist in training, but I have over two years of project-based experience with the [Center for Spatial Analysis & Research](https://www.pdx.edu/geography/center-for-spatial-analysis-research-csar) and the [Sustaining Urban Places Research Lab](http://www.suprlab.org/). I'm currently offering GIS & data services as an independent contractor.
 
