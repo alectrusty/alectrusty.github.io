@@ -22,10 +22,10 @@ weight = 5
   year = 2017
 
 [[education.courses]]
-  course = "Associat of Arts Oregon Transfer"
+  course = "Associate of Arts Oregon Transfer"
   institution = "Portland Community College"
   year = 2014
- 
+
 +++
 
 # Hi, I'm Alec.

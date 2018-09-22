@@ -41,15 +41,6 @@ I consider myself an Environmental Data Scientist in training, but I have over t
     </item>
     
     <item>
-      <title>Skills</title>
-      <link>/home/skills/</link>
-      <pubDate>Wed, 20 Sep 2017 00:00:00 -0600</pubDate>
-      
-      <guid>/home/skills/</guid>
-      <description></description>
-    </item>
-    
-    <item>
       <title>Selected Publications</title>
       <link>/home/publications_selected/</link>
       <pubDate>Wed, 20 Apr 2016 00:00:00 -0600</pubDate>
@@ -100,6 +91,15 @@ I consider myself an Environmental Data Scientist in training, but I have over t
       <pubDate>Wed, 20 Apr 2016 00:00:00 -0600</pubDate>
       
       <guid>/home/projects/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Skills</title>
+      <link>/home/skills/</link>
+      <pubDate>Wed, 20 Sep 2017 00:00:00 -0600</pubDate>
+      
+      <guid>/home/skills/</guid>
       <description></description>
     </item>
     
