@@ -30,7 +30,5 @@ weight = 5
 
 ## Hi, I'm Alec.
 
-I'm interested in applications of spatial predictive analytics within the realms of natural resource management, carbon economics, and environmental sustainability. I have an educational background in Environmental Science, three years experience in applied GIS, and in more recent years developed a savviness in programmatic data analysis and an interest in the data science framework.
-
 I consider myself an Environmental Data Scientist in training, but I have over two years of project-based experience with the [Center for Spatial Analysis & Research](https://www.pdx.edu/geography/center-for-spatial-analysis-research-csar) and the [Sustaining Urban Places Research Lab](http://www.suprlab.org/). I'm currently offering GIS & data services as an independent contractor.
 
