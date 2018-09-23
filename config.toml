@@ -64,7 +64,7 @@ enableGitInfo = false
   # Details for the Contact Widget
   email = "a.e.trusty@gmail.com"
   address = "Corvallis, Oregon"
-  office_hours = "Sometime after 9am"
+  office_hours = "9am - 5pm, Mon-Fri"
   phone = "320 492 8686"
   #skype = ""
   telegram = ""
@@ -241,21 +241,26 @@ enableGitInfo = false
     icon = "envelope"
     icon_pack = "fas"
     link = "mailto:a.e.trusty@gmail.com"
-
+    
+  [[params.social]]
+    icon = "linkedin"
+    icon_pack = "fab"
+    link = "https://www.linkedin.com/in/alec-trusty-30220b109/"
+    
+  [[params.social]]
+    icon = "github"
+    icon_pack = "fab"
+    link = "//github.com/alectrusty"
+    
   [[params.social]]
     icon = "twitter"
     icon_pack = "fab"
     link = "//twitter.com/alec_trusty"
 
   [[params.social]]
-    icon = "linkedin"
+    icon = "kaggle"
     icon_pack = "fab"
-    link = "https://www.linkedin.com/in/alec-trusty-30220b109/"
-
-  [[params.social]]
-    icon = "github"
-    icon_pack = "fab"
-    link = "//github.com/alectrusty"
+    link = "https://www.kaggle.com/alectrusty"
 
   # Link to a PDF of your resume/CV from the About widget.
   # To enable, copy your resume/CV to `static/files/cv.pdf` and uncomment the lines below.
