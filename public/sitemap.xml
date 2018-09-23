@@ -84,15 +84,6 @@
     
     <url>
     
-      <loc>/</loc>
-      <lastmod>2017-10-15T00:00:00-06:00</lastmod>
-      <priority>0</priority>
-    </url>
-    
-  
-    
-    <url>
-    
       <loc>/tags/cartography/</loc>
       <lastmod>2018-09-21T00:00:00+00:00</lastmod>
       <priority>0</priority>
@@ -145,7 +136,7 @@
     
     <url>
     
-      <loc>/categories/r/</loc>
+      <loc>/tags/r/</loc>
       <lastmod>2018-09-21T00:00:00+00:00</lastmod>
       <priority>0</priority>
     </url>
@@ -154,7 +145,7 @@
     
     <url>
     
-      <loc>/tags/r/</loc>
+      <loc>/categories/r/</loc>
       <lastmod>2018-09-21T00:00:00+00:00</lastmod>
       <priority>0</priority>
     </url>
@@ -174,6 +165,15 @@
     
       <loc>/tags/web-mapping/</loc>
       <lastmod>2018-09-22T00:00:00-06:00</lastmod>
+      <priority>0</priority>
+    </url>
+    
+  
+    
+    <url>
+    
+      <loc>/</loc>
+      <lastmod>2017-10-15T00:00:00-06:00</lastmod>
       <priority>0</priority>
     </url>
     
