@@ -4,7 +4,7 @@
     
     <url>
     
-      <loc>/project/arctic-story-map/</loc>
+      <loc>https://www.alectrusty.com/project/arctic-story-map/</loc>
       <lastmod>2018-09-22T00:00:00-06:00</lastmod>
     </url>
     
@@ -12,7 +12,7 @@
     
     <url>
     
-      <loc>/post/test-post/</loc>
+      <loc>https://www.alectrusty.com/post/test-post/</loc>
       <lastmod>2018-09-21T00:00:00+00:00</lastmod>
     </url>
     
@@ -20,7 +20,7 @@
     
     <url>
     
-      <loc>/tutorial/example/</loc>
+      <loc>https://www.alectrusty.com/tutorial/example/</loc>
       <lastmod>2018-09-09T00:00:00-06:00</lastmod>
     </url>
     
@@ -28,7 +28,7 @@
     
     <url>
     
-      <loc>/tutorial/</loc>
+      <loc>https://www.alectrusty.com/tutorial/</loc>
       <lastmod>2018-09-09T00:00:00-06:00</lastmod>
     </url>
     
@@ -36,15 +36,7 @@
     
     <url>
     
-      <loc>/privacy/</loc>
-      <lastmod>2018-06-28T00:00:00-06:00</lastmod>
-    </url>
-    
-  
-    
-    <url>
-    
-      <loc>/talk/example-talk/</loc>
+      <loc>https://www.alectrusty.com/talk/example-talk/</loc>
       <lastmod>2017-01-01T00:00:00-06:00</lastmod>
     </url>
     
@@ -52,7 +44,7 @@
     
     <url>
     
-      <loc>/post/</loc>
+      <loc>https://www.alectrusty.com/post/</loc>
       <lastmod>2017-01-01T00:00:00-06:00</lastmod>
     </url>
     
@@ -60,7 +52,7 @@
     
     <url>
     
-      <loc>/publication/</loc>
+      <loc>https://www.alectrusty.com/publication/</loc>
       <lastmod>2017-01-01T00:00:00-06:00</lastmod>
     </url>
     
@@ -68,7 +60,7 @@
     
     <url>
     
-      <loc>/talk/</loc>
+      <loc>https://www.alectrusty.com/talk/</loc>
       <lastmod>2017-01-01T00:00:00-06:00</lastmod>
     </url>
     
@@ -76,7 +68,7 @@
     
     <url>
     
-      <loc>/project/deep-learning/</loc>
+      <loc>https://www.alectrusty.com/project/deep-learning/</loc>
       <lastmod>2016-04-27T00:00:00-06:00</lastmod>
     </url>
     
@@ -84,7 +76,7 @@
     
     <url>
     
-      <loc>/</loc>
+      <loc>https://www.alectrusty.com/</loc>
       <lastmod>2017-10-15T00:00:00-06:00</lastmod>
       <priority>0</priority>
     </url>
@@ -93,7 +85,7 @@
     
     <url>
     
-      <loc>/tags/cartography/</loc>
+      <loc>https://www.alectrusty.com/tags/cartography/</loc>
       <lastmod>2018-09-21T00:00:00+00:00</lastmod>
       <priority>0</priority>
     </url>
@@ -102,7 +94,7 @@
     
     <url>
     
-      <loc>/categories/</loc>
+      <loc>https://www.alectrusty.com/categories/</loc>
       <priority>0</priority>
     </url>
     
@@ -110,7 +102,7 @@
     
     <url>
     
-      <loc>/tags/deep-learning/</loc>
+      <loc>https://www.alectrusty.com/tags/deep-learning/</loc>
       <lastmod>2016-04-27T00:00:00-06:00</lastmod>
       <priority>0</priority>
     </url>
@@ -119,7 +111,7 @@
     
     <url>
     
-      <loc>/tags/esri-story-map/</loc>
+      <loc>https://www.alectrusty.com/tags/esri-story-map/</loc>
       <lastmod>2018-09-22T00:00:00-06:00</lastmod>
       <priority>0</priority>
     </url>
@@ -128,7 +120,7 @@
     
     <url>
     
-      <loc>/project/</loc>
+      <loc>https://www.alectrusty.com/project/</loc>
       <lastmod>2018-09-22T00:00:00-06:00</lastmod>
       <priority>0</priority>
     </url>
@@ -137,7 +129,7 @@
     
     <url>
     
-      <loc>/publication_types/</loc>
+      <loc>https://www.alectrusty.com/publication_types/</loc>
       <priority>0</priority>
     </url>
     
@@ -145,7 +137,7 @@
     
     <url>
     
-      <loc>/tags/r/</loc>
+      <loc>https://www.alectrusty.com/tags/r/</loc>
       <lastmod>2018-09-21T00:00:00+00:00</lastmod>
       <priority>0</priority>
     </url>
@@ -154,7 +146,7 @@
     
     <url>
     
-      <loc>/categories/r/</loc>
+      <loc>https://www.alectrusty.com/categories/r/</loc>
       <lastmod>2018-09-21T00:00:00+00:00</lastmod>
       <priority>0</priority>
     </url>
@@ -163,7 +155,7 @@
     
     <url>
     
-      <loc>/tags/</loc>
+      <loc>https://www.alectrusty.com/tags/</loc>
       <lastmod>2018-09-21T00:00:00+00:00</lastmod>
       <priority>0</priority>
     </url>
@@ -172,7 +164,7 @@
     
     <url>
     
-      <loc>/tags/web-mapping/</loc>
+      <loc>https://www.alectrusty.com/tags/web-mapping/</loc>
       <lastmod>2018-09-22T00:00:00-06:00</lastmod>
       <priority>0</priority>
     </url>
