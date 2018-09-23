@@ -6,11 +6,11 @@ date = 2017-09-20T00:00:00
 # Activate this widget? true/false
 active = true
 
-title = "Skills"
+title = "Services"
 subtitle = ""
 
 # Order that this section will appear in.
-weight = 60
+weight = 10
 
 # Showcase personal skills or business features.
 # 
@@ -22,39 +22,60 @@ weight = 60
 # * ai - academic icons (see https://jpswalsh.github.io/academicons/)
 
 [[feature]]
+  icon = "compass"
+  icon_pack = "fas"
+  name = "GIS / Spatial Analysis"
+  description = ""
+  
+[[feature]]
   icon = "chart-line"
   icon_pack = "fas"
   name = "Data Analysis"
   description = "" 
   
 [[feature]]
-  icon = "compass"
+  icon = "wrench"
   icon_pack = "fas"
-  name = "GIS"
-  description = "" 
+  name = ""
+  description = "Custom Tools" 
   
-[[feature]]
-  icon = "database"
-  icon_pack = "fas"
-  name = "Data Wrangling"
-  description = "" 
+# Backups
+#[[feature]]
+#  icon = "chart-line"
+#  icon_pack = "fas"
+#  name = "Data Analysis"
+#  description = "" 
   
-[[feature]]
-  icon = "r-project"
-  icon_pack = "fab"
-  name = "R"
-  description = ""
+#[[feature]]
+#  icon = "compass"
+#  icon_pack = "fas"
+#  name = "GIS"
+#  description = "" 
   
-[[feature]]
-  icon = "python"
-  icon_pack = "fab"
-  name = "Python"
-  description = ""
+#[[feature]]
+#  icon = "database"
+#  icon_pack = "fas"
+#  name = "Data Wrangling"
+#  description = "" 
   
-[[feature]]
-  icon = "osi"
-  icon_pack = "fab"
-  name = "Open Source"
-  description = ""
-
+#[[feature]]
+#  icon = "r-project"
+#  icon_pack = "fab"
+#  name = "R"
+#  description = ""
+  
+#[[feature]]
+#  icon = "python"
+#  icon_pack = "fab"
+#  name = "Python"
+#  description = ""
+  
+#[[feature]]
+#  icon = "osi"
+#  icon_pack = "fab"
+#  name = "Open Source"
+#  description = ""
+  
 +++
+
+I'm available as a freelance contractor offering a variety of services including: Custom static and dynamic map creation; Custom tools for automating geoprocessing tasks; Web-Mapping; Data creation, munging, and analysis; Web Scraping; Data dashboards and more! 
