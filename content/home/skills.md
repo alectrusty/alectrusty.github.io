@@ -78,4 +78,4 @@ weight = 10
   
 +++
 
-I'm available as a freelance contractor offering a variety of services including: Custom static and dynamic map creation; Custom tools for automating geoprocessing tasks; Web-Mapping; Data creation, munging, and analysis; Web Scraping; Data dashboards and more! 
+I'm available as a freelance contractor offering a variety of services, including but not limited to: Custom static and dynamic map creation; Custom tools for automating geoprocessing tasks; Database design and assembly; Web-Mapping; Data creation, munging, and analysis; Web Scraping; Data dashboards.
