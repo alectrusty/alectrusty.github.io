@@ -2,32 +2,23 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Projects on Alec Trusty</title>
-    <link>https://www.alectrusty.com/project/</link>
+    <link>/project/</link>
     <description>Recent content in Projects on Alec Trusty</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <copyright>&amp;copy; 2018</copyright>
     <lastBuildDate>Sat, 22 Sep 2018 00:00:00 -0600</lastBuildDate>
     
-	<atom:link href="https://www.alectrusty.com/project/index.xml" rel="self" type="application/rss+xml" />
+	<atom:link href="/project/index.xml" rel="self" type="application/rss+xml" />
     
     
     <item>
       <title>Story Map | Arctic Area-Based Management</title>
-      <link>https://www.alectrusty.com/project/arctic-story-map/</link>
+      <link>/project/arctic-story-map/</link>
       <pubDate>Sat, 22 Sep 2018 00:00:00 -0600</pubDate>
       
-      <guid>https://www.alectrusty.com/project/arctic-story-map/</guid>
+      <guid>/project/arctic-story-map/</guid>
       <description></description>
-    </item>
-    
-    <item>
-      <title>Internal Project</title>
-      <link>https://www.alectrusty.com/project/deep-learning/</link>
-      <pubDate>Wed, 27 Apr 2016 00:00:00 -0600</pubDate>
-      
-      <guid>https://www.alectrusty.com/project/deep-learning/</guid>
-      <description>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis posuere tellus ac convallis placerat. Proin tincidunt magna sed ex sollicitudin condimentum. Sed ac faucibus dolor, scelerisque sollicitudin nisi. Cras purus urna, suscipit quis sapien eu, pulvinar tempor diam. Quisque risus orci, mollis id ante sit amet, gravida egestas nisl. Sed ac tempus magna. Proin in dui enim. Donec condimentum, sem id dapibus fringilla, tellus enim condimentum arcu, nec volutpat est felis vel metus.</description>
     </item>
     
   </channel>
