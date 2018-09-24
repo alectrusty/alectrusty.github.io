@@ -2,22 +2,22 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Cartography on Alec Trusty</title>
-    <link>/tags/cartography/</link>
+    <link>https://www.alectrusty.com/tags/cartography/</link>
     <description>Recent content in Cartography on Alec Trusty</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <copyright>&amp;copy; 2018</copyright>
     <lastBuildDate>Fri, 21 Sep 2018 00:00:00 +0000</lastBuildDate>
     
-	<atom:link href="/tags/cartography/index.xml" rel="self" type="application/rss+xml" />
+	<atom:link href="https://www.alectrusty.com/tags/cartography/index.xml" rel="self" type="application/rss+xml" />
     
     
     <item>
       <title>Test Post</title>
-      <link>/post/test-post/</link>
+      <link>https://www.alectrusty.com/post/test-post/</link>
       <pubDate>Fri, 21 Sep 2018 00:00:00 +0000</pubDate>
       
-      <guid>/post/test-post/</guid>
+      <guid>https://www.alectrusty.com/post/test-post/</guid>
       <description> This is a test posts! Ta-Da! </description>
     </item>
     
