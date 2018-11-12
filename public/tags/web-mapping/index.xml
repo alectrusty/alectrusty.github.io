@@ -1,23 +1,23 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes" ?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Web-mapping on Alec Trusty</title>
-    <link>https://www.alectrusty.com/tags/web-mapping/</link>
-    <description>Recent content in Web-mapping on Alec Trusty</description>
+    <title>web-mapping on Alec Trusty</title>
+    <link>/tags/web-mapping/</link>
+    <description>Recent content in web-mapping on Alec Trusty</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <copyright>&amp;copy; 2018</copyright>
     <lastBuildDate>Sat, 22 Sep 2018 00:00:00 -0600</lastBuildDate>
     
-	<atom:link href="https://www.alectrusty.com/tags/web-mapping/index.xml" rel="self" type="application/rss+xml" />
+	<atom:link href="/tags/web-mapping/index.xml" rel="self" type="application/rss+xml" />
     
     
     <item>
       <title>Story Map | Arctic Area-Based Management</title>
-      <link>https://www.alectrusty.com/project/arctic-story-map/</link>
+      <link>/project/arctic-story-map/</link>
       <pubDate>Sat, 22 Sep 2018 00:00:00 -0600</pubDate>
       
-      <guid>https://www.alectrusty.com/project/arctic-story-map/</guid>
+      <guid>/project/arctic-story-map/</guid>
       <description></description>
     </item>
     

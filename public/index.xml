@@ -2,7 +2,7 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Alec Trusty on Alec Trusty</title>
-    <link>https://www.alectrusty.com/</link>
+    <link>/</link>
     <description>Recent content in Alec Trusty on Alec Trusty</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
@@ -12,19 +12,19 @@
     
     <item>
       <title>Story Map | Arctic Area-Based Management</title>
-      <link>https://www.alectrusty.com/project/arctic-story-map/</link>
+      <link>/project/arctic-story-map/</link>
       <pubDate>Sat, 22 Sep 2018 00:00:00 -0600</pubDate>
       
-      <guid>https://www.alectrusty.com/project/arctic-story-map/</guid>
+      <guid>/project/arctic-story-map/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Test Post</title>
-      <link>https://www.alectrusty.com/post/test-post/</link>
+      <link>/post/test-post/</link>
       <pubDate>Fri, 21 Sep 2018 00:00:00 +0000</pubDate>
       
-      <guid>https://www.alectrusty.com/post/test-post/</guid>
+      <guid>/post/test-post/</guid>
       <description>
 
 &lt;h2 id=&#34;this-is-a-test-posts-ta-da&#34;&gt;This is a test posts! Ta-Da!&lt;/h2&gt;
@@ -33,10 +33,10 @@
     
     <item>
       <title>Example Page</title>
-      <link>https://www.alectrusty.com/tutorial/example/</link>
+      <link>/tutorial/example/</link>
       <pubDate>Sun, 09 Sep 2018 00:00:00 -0600</pubDate>
       
-      <guid>https://www.alectrusty.com/tutorial/example/</guid>
+      <guid>/tutorial/example/</guid>
       <description>
 
 &lt;p&gt;In this tutorial, I&amp;rsquo;ll share my top 10 tips for getting started with Academic:&lt;/p&gt;
@@ -52,11 +52,21 @@
     </item>
     
     <item>
-      <title>Example Talk</title>
-      <link>https://www.alectrusty.com/talk/example-talk/</link>
-      <pubDate>Sun, 01 Jan 2017 00:00:00 -0600</pubDate>
+      <title>Privacy Policy</title>
+      <link>/privacy/</link>
+      <pubDate>Thu, 28 Jun 2018 00:00:00 -0600</pubDate>
       
-      <guid>https://www.alectrusty.com/talk/example-talk/</guid>
+      <guid>/privacy/</guid>
+      <description>&lt;p&gt;&amp;hellip;&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Example Talk</title>
+      <link>/talk/example-talk/</link>
+      <pubDate>Sun, 01 Jan 2017 00:00:00 -0700</pubDate>
+      
+      <guid>/talk/example-talk/</guid>
       <description>&lt;div class=&#34;alert alert-note&#34;&gt;
   &lt;p&gt;Click on the &lt;strong&gt;Slides&lt;/strong&gt; button above to view the built-in slides feature.&lt;/p&gt;
 

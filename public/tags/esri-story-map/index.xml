@@ -2,22 +2,22 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>ESRI-Story-Map on Alec Trusty</title>
-    <link>https://www.alectrusty.com/tags/esri-story-map/</link>
+    <link>/tags/esri-story-map/</link>
     <description>Recent content in ESRI-Story-Map on Alec Trusty</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <copyright>&amp;copy; 2018</copyright>
     <lastBuildDate>Sat, 22 Sep 2018 00:00:00 -0600</lastBuildDate>
     
-	<atom:link href="https://www.alectrusty.com/tags/esri-story-map/index.xml" rel="self" type="application/rss+xml" />
+	<atom:link href="/tags/esri-story-map/index.xml" rel="self" type="application/rss+xml" />
     
     
     <item>
       <title>Story Map | Arctic Area-Based Management</title>
-      <link>https://www.alectrusty.com/project/arctic-story-map/</link>
+      <link>/project/arctic-story-map/</link>
       <pubDate>Sat, 22 Sep 2018 00:00:00 -0600</pubDate>
       
-      <guid>https://www.alectrusty.com/project/arctic-story-map/</guid>
+      <guid>/project/arctic-story-map/</guid>
       <description></description>
     </item>
     

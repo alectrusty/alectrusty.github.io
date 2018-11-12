@@ -2,49 +2,49 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Tags on Alec Trusty</title>
-    <link>https://www.alectrusty.com/tags/</link>
+    <link>/tags/</link>
     <description>Recent content in Tags on Alec Trusty</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <copyright>&amp;copy; 2018</copyright>
-    <lastBuildDate>Fri, 21 Sep 2018 00:00:00 +0000</lastBuildDate>
+    <lastBuildDate>Sat, 22 Sep 2018 00:00:00 -0600</lastBuildDate>
     
-	<atom:link href="https://www.alectrusty.com/tags/index.xml" rel="self" type="application/rss+xml" />
+	<atom:link href="/tags/index.xml" rel="self" type="application/rss+xml" />
     
-    
-    <item>
-      <title>Cartography</title>
-      <link>https://www.alectrusty.com/tags/cartography/</link>
-      <pubDate>Fri, 21 Sep 2018 00:00:00 +0000</pubDate>
-      
-      <guid>https://www.alectrusty.com/tags/cartography/</guid>
-      <description></description>
-    </item>
     
     <item>
       <title>ESRI-Story-Map</title>
-      <link>https://www.alectrusty.com/tags/esri-story-map/</link>
+      <link>/tags/esri-story-map/</link>
       <pubDate>Sat, 22 Sep 2018 00:00:00 -0600</pubDate>
       
-      <guid>https://www.alectrusty.com/tags/esri-story-map/</guid>
+      <guid>/tags/esri-story-map/</guid>
       <description></description>
     </item>
     
     <item>
       <title>R</title>
-      <link>https://www.alectrusty.com/tags/r/</link>
+      <link>/tags/r/</link>
       <pubDate>Fri, 21 Sep 2018 00:00:00 +0000</pubDate>
       
-      <guid>https://www.alectrusty.com/tags/r/</guid>
+      <guid>/tags/r/</guid>
       <description></description>
     </item>
     
     <item>
-      <title>Web-mapping</title>
-      <link>https://www.alectrusty.com/tags/web-mapping/</link>
+      <title>cartography</title>
+      <link>/tags/cartography/</link>
+      <pubDate>Fri, 21 Sep 2018 00:00:00 +0000</pubDate>
+      
+      <guid>/tags/cartography/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>web-mapping</title>
+      <link>/tags/web-mapping/</link>
       <pubDate>Sat, 22 Sep 2018 00:00:00 -0600</pubDate>
       
-      <guid>https://www.alectrusty.com/tags/web-mapping/</guid>
+      <guid>/tags/web-mapping/</guid>
       <description></description>
     </item>
     
