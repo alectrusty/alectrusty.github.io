@@ -29,7 +29,7 @@ body {
   font-size: 1rem;
   line-height: inherit;
   color: inherit;
-  background-color: hsla(210, 15%, 18%, 1);
+  background-color: #fff;
   margin-top: 71px; /* Offset body content by navbar height. */
   padding-top: 0;
   counter-reset: captions;
@@ -104,14 +104,14 @@ h4, h5, h6 {
 
 a,
 h3.article-title a:hover {
-  color: rgb(52, 186, 159);
+  color: rgb(2, 155, 216);
   text-decoration: none;
   transition: color 0.6s ease;
 }
 
 a:hover,
 a:focus {
-  color: rgb(52, 186, 159);
+  color: rgb(2, 155, 216);
 }
 
 img,
@@ -293,8 +293,8 @@ small,
 }
 
 .form-control:focus {
-  border-color: rgb(52, 186, 159);
-  box-shadow: 0 0 0 .2rem hsl(339, 90%, 78%);
+  border-color: rgb(2, 155, 216);
+  box-shadow: 0 0 0 .2rem rgb(0, 136, 192);
 }
 
 /*************************************************
@@ -302,7 +302,7 @@ small,
  **************************************************/
 
 .modal-content {
-  background: hsla(210, 15%, 18%, 1);
+  background: #fff;
 }
 
 .modal-title {
@@ -402,7 +402,7 @@ a[data-fancybox] img {
 }
 
 .home-section {
-  background-color: hsla(210, 15%, 18%, 1);
+  background-color: #fff;
   padding: 110px 0 110px 0;
   animation: intro 0.3s both;
   animation-delay: 0.15s;
@@ -413,7 +413,7 @@ a[data-fancybox] img {
 }
 
 .home-section:nth-of-type(even) {
-  background-color: hsla(210, 15%, 17%, 1);
+  background-color: #f7f7f7;
 }
 
 @media screen and (max-width: 768px) {
@@ -507,7 +507,7 @@ a[data-fancybox] img {
 .featurette-icon {
   display: block;
   width: 100%;
-  color: rgb(52, 186, 159);
+  color: rgb(2, 155, 216);
   font-size: 3rem;
   text-align: center;
 }
@@ -723,7 +723,7 @@ article .article-metadata {
 }
 
 .article-metadata a:hover {
-  color: rgb(52, 186, 159);
+  color: rgb(2, 155, 216);
 }
 
 .middot-divider {
@@ -1105,13 +1105,13 @@ a.badge:hover {
  **************************************************/
 
 .btn-primary {
-  border-color: rgb(52, 186, 159);
-  background: rgb(52, 186, 159);
+  border-color: rgb(2, 155, 216);
+  background: rgb(2, 155, 216);
 }
 
 .btn-outline-primary {
-  border-color: rgb(52, 186, 159);
-  color: rgb(52, 186, 159);
+  border-color: rgb(2, 155, 216);
+  color: rgb(2, 155, 216);
 }
 
 .btn-primary:hover,
@@ -1119,7 +1119,7 @@ a.badge:hover {
 .btn-primary.active,
 .btn-primary:visited,
 .open > .dropdown-toggle.btn-primary {
-  background: rgb(52, 186, 159);
+  background: rgb(2, 155, 216);
 }
 
 .btn-outline-light:hover,
@@ -1132,14 +1132,14 @@ a.badge:hover {
 .btn-outline-primary:not(:disabled):not(.disabled):active,
 .show > .btn-outline-primary.dropdown-toggle {
   color: #fff;
-  background-color: rgb(52, 186, 159);
-  border-color: rgb(52, 186, 159);
+  background-color: rgb(2, 155, 216);
+  border-color: rgb(2, 155, 216);
 }
 
 .btn-outline-primary:hover {
   color: #fff;
-  background-color: rgb(52, 186, 159);
-  border-color: rgb(52, 186, 159);
+  background-color: rgb(2, 155, 216);
+  border-color: rgb(2, 155, 216);
 }
 
 /*************************************************
@@ -1162,18 +1162,18 @@ a.badge:hover {
 
 .btn-toolbar .btn.btn-primary:hover,
 .btn-toolbar .btn.btn-primary:focus {
-  background-color: rgb(52, 210, 159) !important;
+  background-color: #DA2536 !important;
 }
 
 .btn-toolbar .btn.btn-primary:active,
 .btn-toolbar .btn.btn-primary.active {
-  background-color: hsl(339, 90%, 78%) !important;
+  background-color: rgb(0, 136, 192) !important;
 }
 
 .btn-primary:not(:disabled):not(.disabled).active:focus,
 .btn-primary:not(:disabled):not(.disabled):active:focus,
 .show > .btn-primary.dropdown-toggle:focus {
-  box-shadow: 0 0 0 .2rem rgb(52, 210, 159);
+  box-shadow: 0 0 0 .2rem #DA2536;
 }
 
 /*************************************************
@@ -1185,7 +1185,7 @@ a.badge:hover {
 }
 
 .navbar-light {
-  background: rgb(39, 44, 48) !important;
+  background: rgb(71, 73, 77) !important;
   box-shadow: 0 0.125rem 0.25rem 0 rgba(0,0,0,.11)
 }
 
@@ -1194,7 +1194,7 @@ a.badge:hover {
 }
 
 .navbar-toggler {
-  color: rgba(255,255,255,0.6) !important;
+  color: #fff !important;
 }
 
 .navbar-light .navbar-toggler:focus,
@@ -1213,24 +1213,24 @@ nav#navbar-main li.nav-item {
   white-space: nowrap;
   -webkit-transition: 0.2s ease;
   transition: 0.2s ease;
-  color: rgba(255,255,255,0.6);
+  color: #fff;
   font-weight: 600;
 }
 
 .navbar-light .navbar-nav>.nav-item>.nav-link:focus {
-  color: rgba(255,255,255,0.6);
+  color: #fff;
   background-color: transparent;
 }
 
 .navbar-light .navbar-nav>.nav-item>.nav-link:hover {
-  color: rgba(255,255,255,1);
+  color: rgb(2, 155, 216);
   background-color: transparent;
 }
 
 .navbar-light .navbar-nav>li.nav-item>a.active,
 .navbar-light .navbar-nav>li.nav-item>a.active:focus,
 .navbar-light .navbar-nav>li.nav-item>a.active:hover {
-  color: rgba(255,255,255,1);
+  color: rgb(2, 155, 216);
   font-weight: 700;
   background-color: transparent !important; /* Override Bootstrap. */
 }
@@ -1248,11 +1248,11 @@ nav#navbar-main li.nav-item {
 }
 
 .navbar-light .navbar-toggler .icon-bar {
-  background-color: rgba(255,255,255,0.6) !important;
+  background-color: #fff !important;
 }
 
 .dropdown-menu {
-  background-color: rgb(39, 44, 48) !important;
+  background-color: rgb(71, 73, 77) !important;
 }
 
 .dropdown-menu > li > a {
@@ -1261,23 +1261,23 @@ nav#navbar-main li.nav-item {
   clear: both;
   font-weight: 400;
   line-height: 1.42857143;
-  color: rgba(255,255,255,0.6);
+  color: #fff;
   white-space: nowrap;
 }
 
 .dropdown-menu>li>a:focus,
 .dropdown-menu>li>a:hover {
-  color: rgba(255,255,255,1);
+  color: rgb(2, 155, 216);
   text-decoration: none;
-  background-color: rgb(39, 44, 48);
+  background-color: rgb(71, 73, 77);
 }
 
 .dropdown-menu > .active,
 .dropdown-menu > .active:focus,
 .dropdown-menu > .active:hover {
-  color: rgb(39, 44, 48);
+  color: rgb(71, 73, 77);
   text-decoration: none;
-  background-color: rgba(255,255,255,1);
+  background-color: rgb(2, 155, 216);
   outline: 0;
 }
 
@@ -1285,8 +1285,8 @@ nav#navbar-main li.nav-item {
 .navbar-light .navbar-nav>.open>a:focus,
 .navbar-light .navbar-nav>.open>a:hover,
 .navbar-light .navbar-nav>.open>a:visited {
-  color: rgba(255,255,255,0.6) !important;
-  background-color: rgb(39, 44, 48) !important;
+  color: #fff !important;
+  background-color: rgb(71, 73, 77) !important;
 }
 
 .navbar-light .navbar-brand {
@@ -1340,7 +1340,7 @@ nav#navbar-main li.nav-item {
     clear: both;
     font-weight: 400;
     line-height: 1.42857143;
-    color: rgba(255,255,255,0.6);
+    color: #fff;
     white-space: nowrap;
   }
 
@@ -1356,7 +1356,7 @@ nav#navbar-main li.nav-item {
   .navbar-light .navbar-nav .open .dropdown-menu > li > a {
     padding: 5px 15px 5px 25px;
     line-height: 20px;
-    color: rgba(255,255,255,0.6);
+    color: #fff;
   }
 
   .navbar-light .navbar-nav .open .dropdown-menu > li > a:focus,
@@ -1368,7 +1368,7 @@ nav#navbar-main li.nav-item {
   .navbar-light .navbar-nav .open .dropdown-menu >.nav-item> .active,
   .navbar-light .navbar-nav .open .dropdown-menu >.nav-item> .active:focus,
   .navbar-light .navbar-nav .open .dropdown-menu >.nav-item> .active:hover {
-    color: rgba(255,255,255,1);
+    color: rgb(2, 155, 216);
     background-color: transparent;
   }
 
@@ -1532,8 +1532,8 @@ div.alert a {
 }
 
 .docs-search .form-control:focus {
-  border-color: rgb(52, 186, 159);
-  box-shadow: 0 0 0 3px hsl(339, 90%, 78%);
+  border-color: rgb(2, 155, 216);
+  box-shadow: 0 0 0 3px rgb(0, 136, 192);
 }
 
 /* Docs sidebar. */
@@ -1583,7 +1583,7 @@ div.alert a {
 .docs-sidebar .nav>.active:hover>a,
 .docs-sidebar .nav>.active>a {
   font-weight: bold;
-  color: rgb(52, 186, 159);
+  color: rgb(2, 155, 216);
   background-color: transparent;
 }
 
@@ -1702,7 +1702,7 @@ ul.toc-top {
 
 #TableOfContents li a:hover,
 .toc-top li a:hover {
-  color: rgb(52, 186, 159);
+  color: rgb(2, 155, 216);
   text-decoration: none;
 }
 
@@ -1710,12 +1710,12 @@ ul.toc-top {
 
 .anchorjs-link {
   font-weight: 400;
-  color: rgb(52, 210, 159);
+  color: #DA2536;
   transition: color .16s linear;
 }
 
 .anchorjs-link:hover {
-  color: rgb(52, 186, 159);
+  color: rgb(2, 155, 216);
   text-decoration: none;
 }
 
@@ -1734,8 +1734,8 @@ body.dark,
 
 .dark .form-control:focus {
   background-color: rgb(68, 71, 90);
-  border-color: rgb(52, 186, 159);
-  box-shadow: 0 0 0 .2rem rgb(52, 210, 159);
+  border-color: rgb(2, 155, 216);
+  box-shadow: 0 0 0 .2rem #DA2536;
 }
 
 .dark h1,
@@ -1767,7 +1767,7 @@ body.dark,
 }
 
 .dark ul.share li a {
-  background-color: rgb(52, 186, 159);
+  background-color: rgb(2, 155, 216);
 }
 
 .dark table table {
@@ -1821,7 +1821,7 @@ body.dark,
 }
 
 .dark .card h4 a {
-  color: rgb(52, 186, 159);
+  color: rgb(2, 155, 216);
   border-bottom: solid 1px transparent;
 }
 

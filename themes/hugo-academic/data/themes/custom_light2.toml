@@ -1,0 +1,21 @@
+# Theme metadata
+name = "custom_light"
+
+# Is theme light or dark?
+light = true
+
+# Primary
+primary = "rgb(2, 155, 216)"
+primary_light = "rgb(0, 136, 192)"
+primary_dark = "#DA2536"
+
+# Menu
+menu_primary = "rgb(71, 73, 77)"
+menu_text = "#fff"
+menu_text_active = "rgb(2, 155, 216)"
+menu_title = "#fff"
+
+# Backgrounds
+background = "#fff"
+home_section_odd = "#fff"
+home_section_even = "#f7f7f7"
