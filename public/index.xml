@@ -7,13 +7,13 @@
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <copyright>&amp;copy; 2018</copyright>
-    <lastBuildDate>Sun, 15 Oct 2017 00:00:00 -0600</lastBuildDate>
+    <lastBuildDate>Sun, 15 Oct 2017 00:00:00 -0700</lastBuildDate>
     <atom:link href="/" rel="self" type="application/rss+xml" />
     
     <item>
       <title>Story Map | Arctic Area-Based Management</title>
       <link>/project/arctic-story-map/</link>
-      <pubDate>Sat, 22 Sep 2018 00:00:00 -0600</pubDate>
+      <pubDate>Sat, 22 Sep 2018 00:00:00 -0700</pubDate>
       
       <guid>/project/arctic-story-map/</guid>
       <description></description>
@@ -34,7 +34,7 @@
     <item>
       <title>Example Page</title>
       <link>/tutorial/example/</link>
-      <pubDate>Sun, 09 Sep 2018 00:00:00 -0600</pubDate>
+      <pubDate>Sun, 09 Sep 2018 00:00:00 -0700</pubDate>
       
       <guid>/tutorial/example/</guid>
       <description>
@@ -54,7 +54,7 @@
     <item>
       <title>Privacy Policy</title>
       <link>/privacy/</link>
-      <pubDate>Thu, 28 Jun 2018 00:00:00 -0600</pubDate>
+      <pubDate>Thu, 28 Jun 2018 00:00:00 -0700</pubDate>
       
       <guid>/privacy/</guid>
       <description>&lt;p&gt;&amp;hellip;&lt;/p&gt;
@@ -64,7 +64,7 @@
     <item>
       <title>Example Talk</title>
       <link>/talk/example-talk/</link>
-      <pubDate>Sun, 01 Jan 2017 00:00:00 -0700</pubDate>
+      <pubDate>Sun, 01 Jan 2017 00:00:00 -0800</pubDate>
       
       <guid>/talk/example-talk/</guid>
       <description>&lt;div class=&#34;alert alert-note&#34;&gt;
