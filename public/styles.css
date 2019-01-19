@@ -29,7 +29,7 @@ body {
   font-size: 1rem;
   line-height: inherit;
   color: inherit;
-  background-color: rgb(40, 42, 54);
+  background-color: hsla(210, 15%, 18%, 1);
   margin-top: 71px; /* Offset body content by navbar height. */
   padding-top: 0;
   counter-reset: captions;
@@ -104,14 +104,14 @@ h4, h5, h6 {
 
 a,
 h3.article-title a:hover {
-  color: hsl(339, 90%, 68%);
+  color: rgb(52, 186, 159);
   text-decoration: none;
   transition: color 0.6s ease;
 }
 
 a:hover,
 a:focus {
-  color: hsl(339, 90%, 68%);
+  color: rgb(52, 186, 159);
 }
 
 img,
@@ -293,7 +293,7 @@ small,
 }
 
 .form-control:focus {
-  border-color: hsl(339, 90%, 68%);
+  border-color: rgb(52, 186, 159);
   box-shadow: 0 0 0 .2rem hsl(339, 90%, 78%);
 }
 
@@ -302,7 +302,7 @@ small,
  **************************************************/
 
 .modal-content {
-  background: rgb(40, 42, 54);
+  background: hsla(210, 15%, 18%, 1);
 }
 
 .modal-title {
@@ -402,7 +402,7 @@ a[data-fancybox] img {
 }
 
 .home-section {
-  background-color: hsla(231, 15%, 18%, 1);
+  background-color: hsla(210, 15%, 18%, 1);
   padding: 110px 0 110px 0;
   animation: intro 0.3s both;
   animation-delay: 0.15s;
@@ -413,7 +413,7 @@ a[data-fancybox] img {
 }
 
 .home-section:nth-of-type(even) {
-  background-color: hsla(231, 15%, 17%, 1);
+  background-color: hsla(210, 15%, 17%, 1);
 }
 
 @media screen and (max-width: 768px) {
@@ -507,7 +507,7 @@ a[data-fancybox] img {
 .featurette-icon {
   display: block;
   width: 100%;
-  color: hsl(339, 90%, 68%);
+  color: rgb(52, 186, 159);
   font-size: 3rem;
   text-align: center;
 }
@@ -723,7 +723,7 @@ article .article-metadata {
 }
 
 .article-metadata a:hover {
-  color: hsl(339, 90%, 68%);
+  color: rgb(52, 186, 159);
 }
 
 .middot-divider {
@@ -1105,13 +1105,13 @@ a.badge:hover {
  **************************************************/
 
 .btn-primary {
-  border-color: hsl(339, 90%, 68%);
-  background: hsl(339, 90%, 68%);
+  border-color: rgb(52, 186, 159);
+  background: rgb(52, 186, 159);
 }
 
 .btn-outline-primary {
-  border-color: hsl(339, 90%, 68%);
-  color: hsl(339, 90%, 68%);
+  border-color: rgb(52, 186, 159);
+  color: rgb(52, 186, 159);
 }
 
 .btn-primary:hover,
@@ -1119,7 +1119,7 @@ a.badge:hover {
 .btn-primary.active,
 .btn-primary:visited,
 .open > .dropdown-toggle.btn-primary {
-  background: hsl(339, 90%, 68%);
+  background: rgb(52, 186, 159);
 }
 
 .btn-outline-light:hover,
@@ -1132,14 +1132,14 @@ a.badge:hover {
 .btn-outline-primary:not(:disabled):not(.disabled):active,
 .show > .btn-outline-primary.dropdown-toggle {
   color: #fff;
-  background-color: hsl(339, 90%, 68%);
-  border-color: hsl(339, 90%, 68%);
+  background-color: rgb(52, 186, 159);
+  border-color: rgb(52, 186, 159);
 }
 
 .btn-outline-primary:hover {
   color: #fff;
-  background-color: hsl(339, 90%, 68%);
-  border-color: hsl(339, 90%, 68%);
+  background-color: rgb(52, 186, 159);
+  border-color: rgb(52, 186, 159);
 }
 
 /*************************************************
@@ -1162,7 +1162,7 @@ a.badge:hover {
 
 .btn-toolbar .btn.btn-primary:hover,
 .btn-toolbar .btn.btn-primary:focus {
-  background-color: hsl(339, 90%, 58%) !important;
+  background-color: rgb(52, 210, 159) !important;
 }
 
 .btn-toolbar .btn.btn-primary:active,
@@ -1173,7 +1173,7 @@ a.badge:hover {
 .btn-primary:not(:disabled):not(.disabled).active:focus,
 .btn-primary:not(:disabled):not(.disabled):active:focus,
 .show > .btn-primary.dropdown-toggle:focus {
-  box-shadow: 0 0 0 .2rem hsl(339, 90%, 58%);
+  box-shadow: 0 0 0 .2rem rgb(52, 210, 159);
 }
 
 /*************************************************
@@ -1185,7 +1185,7 @@ a.badge:hover {
 }
 
 .navbar-light {
-  background: rgb(20, 22, 34) !important;
+  background: rgb(39, 44, 48) !important;
   box-shadow: 0 0.125rem 0.25rem 0 rgba(0,0,0,.11)
 }
 
@@ -1252,7 +1252,7 @@ nav#navbar-main li.nav-item {
 }
 
 .dropdown-menu {
-  background-color: rgb(20, 22, 34) !important;
+  background-color: rgb(39, 44, 48) !important;
 }
 
 .dropdown-menu > li > a {
@@ -1269,13 +1269,13 @@ nav#navbar-main li.nav-item {
 .dropdown-menu>li>a:hover {
   color: rgba(255,255,255,1);
   text-decoration: none;
-  background-color: rgb(20, 22, 34);
+  background-color: rgb(39, 44, 48);
 }
 
 .dropdown-menu > .active,
 .dropdown-menu > .active:focus,
 .dropdown-menu > .active:hover {
-  color: rgb(20, 22, 34);
+  color: rgb(39, 44, 48);
   text-decoration: none;
   background-color: rgba(255,255,255,1);
   outline: 0;
@@ -1286,7 +1286,7 @@ nav#navbar-main li.nav-item {
 .navbar-light .navbar-nav>.open>a:hover,
 .navbar-light .navbar-nav>.open>a:visited {
   color: rgba(255,255,255,0.6) !important;
-  background-color: rgb(20, 22, 34) !important;
+  background-color: rgb(39, 44, 48) !important;
 }
 
 .navbar-light .navbar-brand {
@@ -1532,7 +1532,7 @@ div.alert a {
 }
 
 .docs-search .form-control:focus {
-  border-color: hsl(339, 90%, 68%);
+  border-color: rgb(52, 186, 159);
   box-shadow: 0 0 0 3px hsl(339, 90%, 78%);
 }
 
@@ -1583,7 +1583,7 @@ div.alert a {
 .docs-sidebar .nav>.active:hover>a,
 .docs-sidebar .nav>.active>a {
   font-weight: bold;
-  color: hsl(339, 90%, 68%);
+  color: rgb(52, 186, 159);
   background-color: transparent;
 }
 
@@ -1702,7 +1702,7 @@ ul.toc-top {
 
 #TableOfContents li a:hover,
 .toc-top li a:hover {
-  color: hsl(339, 90%, 68%);
+  color: rgb(52, 186, 159);
   text-decoration: none;
 }
 
@@ -1710,12 +1710,12 @@ ul.toc-top {
 
 .anchorjs-link {
   font-weight: 400;
-  color: hsl(339, 90%, 58%);
+  color: rgb(52, 210, 159);
   transition: color .16s linear;
 }
 
 .anchorjs-link:hover {
-  color: hsl(339, 90%, 68%);
+  color: rgb(52, 186, 159);
   text-decoration: none;
 }
 
@@ -1734,8 +1734,8 @@ body.dark,
 
 .dark .form-control:focus {
   background-color: rgb(68, 71, 90);
-  border-color: hsl(339, 90%, 68%);
-  box-shadow: 0 0 0 .2rem hsl(339, 90%, 58%);
+  border-color: rgb(52, 186, 159);
+  box-shadow: 0 0 0 .2rem rgb(52, 210, 159);
 }
 
 .dark h1,
@@ -1767,7 +1767,7 @@ body.dark,
 }
 
 .dark ul.share li a {
-  background-color: hsl(339, 90%, 68%);
+  background-color: rgb(52, 186, 159);
 }
 
 .dark table table {
@@ -1821,7 +1821,7 @@ body.dark,
 }
 
 .dark .card h4 a {
-  color: hsl(339, 90%, 68%);
+  color: rgb(52, 186, 159);
   border-bottom: solid 1px transparent;
 }
 

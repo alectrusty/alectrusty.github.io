@@ -30,7 +30,7 @@ weight = 10
 [[feature]]
   icon = "chart-line"
   icon_pack = "fas"
-  name = "Data Analysis"
+  name = "Data Science"
   description = "" 
   
 [[feature]]
@@ -78,4 +78,4 @@ weight = 10
   
 +++
 
-I am available as a freelance contractor offering a variety of services, including but not limited to: Custom static and dynamic map creation; Custom tools for automating geoprocessing tasks; Database design and assembly; Web-Mapping; Data creation, munging, and analysis; Web Scraping; Data dashboards.
+I am available as a freelance contractor offering a variety of services, including but not limited to: Custom static and dynamic map creation; Custom tools for automating geoprocessing tasks; Database design and assembly; Web-Mapping; Data creation, munging, and analysis; Web Scraping; [Data dashboards](https://alectrusty.shinyapps.io/pdx_housing_dashboard).
