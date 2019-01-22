@@ -16,6 +16,16 @@ menu_text_active = "rgb(2, 155, 216)"
 menu_title = "#fff"
 
 # Backgrounds
-background = "#fff"
-home_section_odd = "#fff"
+background = "fffff0"
+home_section_odd = "fffff0"
 home_section_even = "#f7f7f7"
+#"#fff"
+#"#f7f7f7"
+
+# Whites:
+#"fdf5e6" old lace
+#"fffff0" ivory
+#"FFF55EE" seashell
+#"#e3dac9" bone
+#"f5f5f5" white smoke
+#"#fff" white white
