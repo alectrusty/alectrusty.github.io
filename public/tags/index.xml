@@ -31,6 +31,15 @@
     </item>
     
     <item>
+      <title>R-Shiny</title>
+      <link>/tags/r-shiny/</link>
+      <pubDate>Tue, 22 Jan 2019 00:00:00 -0800</pubDate>
+      
+      <guid>/tags/r-shiny/</guid>
+      <description></description>
+    </item>
+    
+    <item>
       <title>cartography</title>
       <link>/tags/cartography/</link>
       <pubDate>Fri, 21 Sep 2018 00:00:00 +0000</pubDate>
@@ -40,9 +49,27 @@
     </item>
     
     <item>
+      <title>custom-tools</title>
+      <link>/tags/custom-tools/</link>
+      <pubDate>Tue, 22 Jan 2019 00:00:00 -0800</pubDate>
+      
+      <guid>/tags/custom-tools/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>data-dashboard</title>
+      <link>/tags/data-dashboard/</link>
+      <pubDate>Tue, 22 Jan 2019 00:00:00 -0800</pubDate>
+      
+      <guid>/tags/data-dashboard/</guid>
+      <description></description>
+    </item>
+    
+    <item>
       <title>web-mapping</title>
       <link>/tags/web-mapping/</link>
-      <pubDate>Sat, 22 Sep 2018 00:00:00 -0700</pubDate>
+      <pubDate>Tue, 22 Jan 2019 00:00:00 -0800</pubDate>
       
       <guid>/tags/web-mapping/</guid>
       <description></description>

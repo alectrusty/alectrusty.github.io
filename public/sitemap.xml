@@ -4,6 +4,14 @@
     
     <url>
     
+      <loc>/project/data-dashboard-example/</loc>
+      <lastmod>2019-01-22T00:00:00-08:00</lastmod>
+    </url>
+    
+  
+    
+    <url>
+    
       <loc>/project/arctic-story-map/</loc>
       <lastmod>2018-09-22T00:00:00-07:00</lastmod>
     </url>
@@ -103,7 +111,7 @@
     <url>
     
       <loc>/project/</loc>
-      <lastmod>2018-09-22T00:00:00-07:00</lastmod>
+      <lastmod>2019-01-22T00:00:00-08:00</lastmod>
       <priority>0</priority>
     </url>
     
@@ -137,6 +145,15 @@
     
     <url>
     
+      <loc>/tags/r-shiny/</loc>
+      <lastmod>2019-01-22T00:00:00-08:00</lastmod>
+      <priority>0</priority>
+    </url>
+    
+  
+    
+    <url>
+    
       <loc>/tags/</loc>
       <lastmod>2018-09-22T00:00:00-07:00</lastmod>
       <priority>0</priority>
@@ -155,8 +172,26 @@
     
     <url>
     
+      <loc>/tags/custom-tools/</loc>
+      <lastmod>2019-01-22T00:00:00-08:00</lastmod>
+      <priority>0</priority>
+    </url>
+    
+  
+    
+    <url>
+    
+      <loc>/tags/data-dashboard/</loc>
+      <lastmod>2019-01-22T00:00:00-08:00</lastmod>
+      <priority>0</priority>
+    </url>
+    
+  
+    
+    <url>
+    
       <loc>/tags/web-mapping/</loc>
-      <lastmod>2018-09-22T00:00:00-07:00</lastmod>
+      <lastmod>2019-01-22T00:00:00-08:00</lastmod>
       <priority>0</priority>
     </url>
     

@@ -59,7 +59,7 @@ enableGitInfo = false
   organizations = [ { name = "GIS | Data Science | Web Mapping", url = "" } ]
 
   gravatar = false  # Get your avatar from Gravatar.com? (true/false)
-  avatar = "alguat.jpg"  # Specify an avatar image (in `static/img/` folder) or delete value to disable avatar.
+  avatar = "scuba-portrait.jpg"  # Specify an avatar image (in `static/img/` folder) or delete value to disable avatar.
   
   # Details for the Contact Widget
   email = "a.e.trusty@gmail.com"
@@ -252,15 +252,15 @@ enableGitInfo = false
     icon_pack = "fab"
     link = "//github.com/alectrusty"
     
-  [[params.social]]
-    icon = "twitter"
-    icon_pack = "fab"
-    link = "//twitter.com/alec_trusty"
+  #[[params.social]]
+  #  icon = "twitter"
+  #  icon_pack = "fab"
+  #  link = "//twitter.com/alec_trusty"
 
-  [[params.social]]
-    icon = "kaggle"
-    icon_pack = "fab"
-    link = "https://www.kaggle.com/alectrusty"
+  #[[params.social]]
+  #  icon = "kaggle"
+  #  icon_pack = "fab"
+  #  link = "https://www.kaggle.com/alectrusty"
 
   # Link to a PDF of your resume/CV from the About widget.
   # To enable, copy your resume/CV to `static/files/cv.pdf` and uncomment the lines below.

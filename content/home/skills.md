@@ -78,4 +78,4 @@ weight = 10
   
 +++
 
-I am available as a freelance contractor offering a variety of services, including but not limited to: Custom static and dynamic map creation; Custom tools for automating geoprocessing tasks; Database design and assembly; Web-Mapping; Data creation, munging, and analysis; Web Scraping; [Data dashboards](https://alectrusty.shinyapps.io/pdx_housing_dashboard).
+I am available as a freelance contractor offering a variety of services, including but not limited to: R-Shiny Apps & [Data Dashboard](https://alectrusty.shinyapps.io/pdx_housing_dashboard) development; Static and dynamic map creation; Custom tools for automating geoprocessing tasks; Database design and assembly; [Web-Mapping](http://pdxedu.maps.arcgis.com/apps/Cascade/index.html?appid=eced9a85fa9d40ffa1a73c12f694c49c); Data creation, munging, and analysis; and Web Scraping.
