@@ -2,6 +2,7 @@ theme = "researcher"
 baseURL = "alectrusty.github.io"
 languageCode = "en-us"
 title = "alec trusty"
+publishDir = ".."
 
 [params]
   author = "Alec Trusty"
