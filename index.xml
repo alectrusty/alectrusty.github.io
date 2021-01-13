@@ -1,0 +1,54 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>alec trusty</title>
+    <link>alectrusty.github.io/</link>
+    <description>Recent content on alec trusty</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language><atom:link href="alectrusty.github.io/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title></title>
+      <link>alectrusty.github.io/contact/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>alectrusty.github.io/contact/</guid>
+      <description>github | linkedIn | myspace?</description>
+    </item>
+    
+    <item>
+      <title></title>
+      <link>alectrusty.github.io/cv/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>alectrusty.github.io/cv/</guid>
+      <description>Experience NV5 Geospatial / Senior GIS Technician
+October 2019 - Present
+ Independent Contractor / GIS &amp;amp; Data Services
+June 2019 - October 2019
+ UBC: Reproduced a Walkability Index surface model UD4H: Wrote a lot of R code to support various projects.  Necessary Skills: R, Python, QGIS
+ Research Analyst / SUPR Lab
+January 2017 - January 2018
+ Wrangled a ton of spatial and aspatial data into a single PostgreSQL database to inform programmatic decision making at Energy Trust of Oregon  Necessary Skills: R, PostgreSQL / PostGIS, Linux, ArcMap, Data Wrangling</description>
+    </item>
+    
+    <item>
+      <title></title>
+      <link>alectrusty.github.io/projects/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>alectrusty.github.io/projects/</guid>
+      <description>under construction&amp;hellip; see github</description>
+    </item>
+    
+    <item>
+      <title>about</title>
+      <link>alectrusty.github.io/about/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>alectrusty.github.io/about/</guid>
+      <description>who am I? My name is Alec Trusty. On paper, I&amp;rsquo;m a geographer with some tech skills. In real life, I&amp;rsquo;m a simple Oregonian who loves his fiance and a good adventure. If you&amp;rsquo;d like to chat, feel free to contact me at any of the provided links below.
+ e-mail | github | linkedIn</description>
+    </item>
+    
+  </channel>
+</rss>
