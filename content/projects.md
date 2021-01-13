@@ -1,6 +1,1 @@
-Here is a `code` block.
-
-```python
-def some_function():
-    return True
-```
+under construction... see [github](https://github.com/alectrusty)

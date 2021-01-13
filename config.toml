@@ -30,10 +30,6 @@ title = "alec trusty"
     name = "cv"
     url = "/cv"
     weight = 3
-  [[menu.main]]
-    name = "contact"
-    url = "/contact"
-    weight = 4
 
 [markup.goldmark.renderer]
   unsafe = true  # allow raw HTML in markdown files
