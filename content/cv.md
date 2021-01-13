@@ -38,13 +38,16 @@ January 2017 - January 2018
 
 **Programming**: R, Python, SQL, JavaScript (Basics)
 
-**Software / OS**: Rstudio, Jupyter Lab, QGIS, Windows/Linux
+**Software / OS**: Rstudio, Jupyter Lab, QGIS, Windows, Linux
 
 --- 
 
 ### Education
 **Portland State University, Portland OR**
+
 *Bachelor of Environmental Science, June 2017*
+
 *Honors: Cum Laude (3.7 GPA)*
+
 *Minor: Geographic Information Science*
 
