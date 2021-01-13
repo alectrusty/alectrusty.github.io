@@ -1,5 +1,5 @@
 theme = "researcher"
-baseURL = "https://github.com/alectrusty/alectrusty.github.io"
+baseURL = "alectrusty.github.io"
 languageCode = "en-us"
 title = "alec trusty"
 
