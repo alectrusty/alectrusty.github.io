@@ -2,7 +2,7 @@ theme = "researcher"
 baseURL = "https://alectrusty.github.io/"
 languageCode = "en-us"
 title = "alec trusty"
-publishDir = ".."
+#publishDir = ".."
 
 [params]
   author = "Alec Trusty"
