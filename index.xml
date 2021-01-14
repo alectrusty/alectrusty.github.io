@@ -8,6 +8,16 @@
     <language>en-us</language><atom:link href="https://alectrusty.github.io/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title></title>
+      <link>https://alectrusty.github.io/about/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://alectrusty.github.io/about/</guid>
+      <description>My name is Alec Trusty. On paper, I&amp;rsquo;m a geographer with some tech skills. In real life, I&amp;rsquo;m a simple Oregonian who loves his fiance and a good adventure. If you&amp;rsquo;d like to chat, feel free to contact me at any of the provided links below.
+ e-mail | github | linkedIn</description>
+    </item>
+    
+    <item>
+      <title></title>
       <link>https://alectrusty.github.io/contact/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
@@ -38,16 +48,6 @@ January 2017 - January 2018
       
       <guid>https://alectrusty.github.io/projects/</guid>
       <description>under construction&amp;hellip; see github</description>
-    </item>
-    
-    <item>
-      <title>about</title>
-      <link>https://alectrusty.github.io/about/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      
-      <guid>https://alectrusty.github.io/about/</guid>
-      <description>My name is Alec Trusty. On paper, I&amp;rsquo;m a geographer with some tech skills. In real life, I&amp;rsquo;m a simple Oregonian who loves his fiance and a good adventure. If you&amp;rsquo;d like to chat, feel free to contact me at any of the provided links below.
- e-mail | github | linkedIn</description>
     </item>
     
   </channel>
